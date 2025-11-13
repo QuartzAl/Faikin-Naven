@@ -1,4 +1,4 @@
-# Faikin-Naven
+# Faikout-Naven
 
 is a project made by two friends to attempt to recreate [faikout](https://github.com/revk/ESP32-Faikout) using locally sourced and budget-friendly materials while retaining equal functionality and quality.
 
